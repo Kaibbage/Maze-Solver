@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1623379880 source:c:\users\kais9\onedrive\desktop\codeblocks projects\maze\main.cpp
+	<iostream>
+	<apmatrix.h>
+	<fstream>
+	<string>
+
+1623548843 source:c:\users\kais9\onedrive\documents\github\maze-kai-sundararaj\maze.cpp
+	"maze.h"
+	<iostream>
+	<fstream>
+	<string>
+	<apmatrix.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+
+1623548616 c:\users\kais9\onedrive\documents\github\maze-kai-sundararaj\maze.h
+	<string>
+	<iostream>
+	<apmatrix.h>
+
+1623548472 source:c:\users\kais9\onedrive\documents\github\maze-kai-sundararaj\main.cpp
+	<iostream>
+	<apmatrix.h>
+	<fstream>
+	<string>
+	"maze.h"
+
+1623548226 source:c:\users\kais9\onedrive\documents\github\maze-kai-sundararaj\maze2.cpp
+	"maze.h"
+	<iostream>
+	<fstream>
+	<string>
+	<apmatrix.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+
